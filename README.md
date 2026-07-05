@@ -35,9 +35,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c&logoColor=21759B" alt="Cpp logo" title="Cpp" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3ECF8E" alt="Supabase logo" title="Supabase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=white" alt="Next.js logo" title="Next.js" height="25" /></span>
+&nbsp;
 </div>
-<!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
 &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
